@@ -1,10 +1,10 @@
 # Hi there, I'm Agung Jaya 👋
 
 ## About Me
-- 🌱 I’m currently learning [New Technology].
+- 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on open-source Android projects.
 - 💬 Ask me about anything related to Android and Kotlin.
-- 📫 How to reach me: [Your Email Address].
+- 📫 How to reach me: imdvlpr.agency@gmail.com.
 
 ## 🚀 Featured Projects
 - [Chat App](https://github.com/Imdvlpr99/Chat-App): Real-time chat application for Android.
