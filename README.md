@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm DEV 👋
 
 I'm a dedicated Android enthusiast with a passion for crafting remarkable mobile experiences. My toolkit includes Kotlin and Java, and I'm on a quest to transform app ideas into captivating realities.
 
