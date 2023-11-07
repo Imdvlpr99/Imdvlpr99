@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Agung Jaya 👋
 
 ## About Me
 - 🌱 I’m currently learning [New Technology].
@@ -34,6 +34,6 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn Profile Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agung-jaya/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuhu_saps/)
 [![Personal Website](https://img.shields.io/badge/Website-2c3e50?style=for-the-badge&logo=wordpress&logoColor=white)](http://imdvlpr.my.id/)
