@@ -29,7 +29,7 @@ I'm a dedicated Android enthusiast with a passion for crafting remarkable mobile
 - [Expense Tracker](https://github.com/Imdvlpr99/ExpenseTracker): An expense tracking application for managing finances.
 
 ## 📊 GitHub Stats
-![DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imdvlpr99&show_icons=true&theme=tokyonight&count_private=true)
+![DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imdvlpr99&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imdvlpr99&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Connect with Me
