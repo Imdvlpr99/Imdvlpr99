@@ -26,7 +26,7 @@ I'm a dedicated Android enthusiast with a passion for crafting remarkable mobile
 ## 🛠️ Showcase Projects
 - [Chat App](https://github.com/Imdvlpr99/Chat-App): A real-time chat application for Android.
 - [Weather App](https://github.com/Imdvlpr99/WeatherApp): An app to check the weather forecast.
-- [Expense Tracker](https://github.com/Imdvlpr99/ExpenseTracker): An expense tracking application for managing finances.
+- [Sobat Dompet](https://github.com/Imdvlpr99/Sobat-Dompet): An expense tracking application for managing finances.
 
 ## 📊 GitHub Stats
 ![DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imdvlpr99&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github)
