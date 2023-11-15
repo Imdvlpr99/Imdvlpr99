@@ -30,7 +30,7 @@ I'm a dedicated Android enthusiast with a passion for crafting remarkable mobile
 
 ## 📊 GitHub Stats
 ![DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imdvlpr99&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imdvlpr99&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imdvlpr99&layout=compact)
 
 ## 🌟 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agung-jaya/)
