@@ -29,7 +29,7 @@ I'm a dedicated Android enthusiast with a passion for crafting remarkable mobile
 - [Sobat Dompet](https://github.com/Imdvlpr99/Sobat-Dompet): An expense tracking application for managing finances.
 
 ## 📊 GitHub Stats
-![DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imdvlpr99&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github)
+![DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imdvlpr99&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imdvlpr99&layout=compact)
 
 ## 🌟 Connect with Me
