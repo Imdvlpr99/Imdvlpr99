@@ -8,6 +8,7 @@ class Github {
     var age: String = ""
     var occupation: String = ""
     var operatingSystem: String = ""
+    var progLang: List<String> = listOf()
 
     fun init() {
         username = "Imdvlpr99"
@@ -20,6 +21,7 @@ class Github {
         age = "Undefined"
         occupation = "Freelance Developer"
         operatingSystem = "Windows, Linux"
+        progLang = listOf("Kotlin", "Java", "Dart", "Javascript", "Typescript")
     }
 }
 
@@ -35,6 +37,7 @@ fun main() {
     println("Age: ${github.age}")
     println("Occupation: ${github.occupation}")
     println("Operating System: ${github.operatingSystem}")
+    println("Programming Language: ${github.progLang}")
 }
 
 ```
