@@ -13,7 +13,7 @@ class Github {
     fun init() {
         username = "Imdvlpr99"
         contacts = mapOf(
-            "Instagram" to "yuhu_saps",
+            "Instagram" to "yuhuu_saps",
             "LinkedIn" to "Agung Jaya"
         )
         aliases = listOf("imdvlpr", "dev")
