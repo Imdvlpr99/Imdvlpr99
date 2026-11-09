@@ -5,58 +5,58 @@
 
 ### Indie Developer · Software Engineer · Builder
 
-Building software, developer tools, and digital experiences.
+I build digital products, developer tools, and applications with a focus on clean design, practical solutions, and great developer experiences.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Imdvlpr99-181717?style=flat-square&logo=github)](https://github.com/Imdvlpr99)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yuhuu_saps)
+[![GitHub](https://img.shields.io/badge/GitHub-Imdvlpr99-181717?style=for-the-badge&logo=github)](https://github.com/Imdvlpr99)
+[![Instagram](https://img.shields.io/badge/Instagram-yuhuu__saps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuhuu_saps)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a developer from Indonesia who enjoys turning ideas into functional, well-designed software.
+- Independent developer passionate about building useful software.
+- Interested in frontend development, mobile applications, and developer tools.
+- Enjoy turning ideas into functional, polished products.
+- Always exploring new technologies and improving my development workflow.
 
-I work across different areas of software development, from web applications and mobile development to backend systems and developer tooling.
+```ts
+const developer = {
+  name: "Dev",
+  username: "Imdvlpr99",
+  location: "Indonesia",
+  role: "Indie Developer",
+  interests: [
+    "Software Development",
+    "Mobile Applications",
+    "Developer Tools",
+    "UI/UX Design",
+    "Open Source"
+  ],
+  mindset: "Build. Learn. Improve. Repeat."
+};
+```
 
-I believe good software isn't just about writing code. It's about solving problems, creating meaningful experiences, and building things that people actually enjoy using.
+## 🚀 Featured Project
 
-- 🚀 Building independent projects and digital products.
-- 🛠️ Interested in full-stack and mobile application development.
-- 🧩 Exploring developer tools, software architecture, and automation.
-- 🌱 Always learning, experimenting, and improving.
-- 💡 Passionate about turning ideas into real-world solutions.
+### [Nativra](https://nativra.vercel.app/)
+
+**Source-first UI components for React Native & Expo.**
+
+A developer-focused UI platform inspired by shadcn/ui, designed to help developers use, own, and customize their components.
+
+- Source-first component architecture
+- Supports NativeWind v4 and React Native StyleSheet
+- Interactive component previews
+- CLI-powered component installation
+- Built for React Native and Expo
+
+[🌐 Website](https://nativra.vercel.app/) · [📦 GitHub Repository](https://github.com/Imdvlpr99/nativra)
 
 ---
 
-## Featured Projects
-
-### 🚀 Nativra
-
-**Native UI, built your way.**
-
-A source-first UI development platform for React Native and Expo, inspired by the philosophy of shadcn/ui.
-
-- Source-first component architecture.
-- NativeWind v4 and React Native StyleSheet support.
-- Interactive component previews.
-- CLI-based component installation.
-- Full source ownership and customization.
-
-[🌐 Website](https://nativra.vercel.app) · [📦 Repository](https://github.com/Imdvlpr99/nativra)
-
----
-
-### 📱 Baba Driver
-
-A React Native-based driver application built for a food delivery ecosystem.
-
-Focused on mobile application development, real-time communication, location tracking, and driver workflows.
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -64,19 +64,13 @@ Focused on mobile application development, real-time communication, location tra
   <img src="https://skillicons.dev/icons?i=ts,js,kotlin,java,dart" />
 </p>
 
-### Frontend & Mobile
+### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,expo,tailwind,nodejs" />
 </p>
 
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,firebase,mysql" />
-</p>
-
-### Tools & Environment
+### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,windows" />
@@ -84,42 +78,45 @@ Focused on mobile application development, real-time communication, location tra
 
 ---
 
-## What I'm Interested In
+## 💡 Areas of Interest
 
 | Area | Focus |
 |---|---|
-| Product Development | Building useful digital products |
-| Mobile Development | React Native, Expo, Android |
-| Web Development | Modern frontend and full-stack applications |
-| Developer Experience | CLI tools, reusable components, automation |
-| Open Source | Sharing tools and contributing to the community |
+| Frontend Development | Modern web applications and interfaces |
+| Mobile Development | React Native and Expo |
+| Developer Experience | CLI tools, component libraries, and workflows |
+| UI/UX | Clean, intuitive, and functional interfaces |
+| Open Source | Building and sharing useful developer tools |
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Imdvlpr99&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Imdvlpr99&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imdvlpr99&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imdvlpr99&layout=compact&theme=github_dark&hide_border=true" />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Imdvlpr99&theme=transparent&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Imdvlpr99&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, exchanging ideas, and collaborating on interesting projects.
+I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new ideas.
+
+- **GitHub:** [@Imdvlpr99](https://github.com/Imdvlpr99)
+- **Instagram:** [@yuhuu_saps](https://instagram.com/yuhuu_saps)
+
+---
 
 <div align="center">
 
-**Let's build something meaningful.**
+### "Build things that matter."
 
-[GitHub](https://github.com/Imdvlpr99) · [Instagram](https://instagram.com/yuhuu_saps)
-
-<sub>Designed with curiosity and built with code. © Dev</sub>
+Thanks for visiting my profile! ⭐
 
 </div>
